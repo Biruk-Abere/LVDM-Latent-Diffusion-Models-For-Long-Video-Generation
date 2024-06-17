@@ -1,6 +1,7 @@
-### LVDM: Latent Video Diffusion Models for Long Video Understanding and Generation
-![GitHub package.json version](https://img.shields.io/github/package-json/v/sultan99/react-on-lambda.svg)
-[![Coverage Status](https://coveralls.io/repos/github/sultan99/react-on-lambda/badge.svg)](https://coveralls.io/github/sultan99/react-on-lambda)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-on-lambda?label=gzip%20size&color=green)
-![NPM Downloads](https://img.shields.io/npm/dm/react-on-lambda)
-![GitHub License](https://img.shields.io/github/license/sultan99/react-on-lambda)
+<div align="center">
+
+<h2> LVDM: <span style="font-size:12px">Latent Video Diffusion Models for Long Video Understanding and Generation </span> </h2> 
+
+  <a href='https://arxiv.org/abs/2211.13221'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://yingqinghe.github.io/LVDM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+  <a href='https://arxiv.org/abs/2211.13221'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://yingqinghe.github.io/LVDM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+  <a href='https://arxiv.org/abs/2211.13221'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://yingqinghe.github.io/LVDM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
