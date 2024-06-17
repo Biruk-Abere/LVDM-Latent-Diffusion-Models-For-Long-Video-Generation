@@ -1,1 +1,1 @@
-# LVDM-Latent-Diffusion-Models-For-Long-Video-Generation
+### LVDM: Latent Video Diffusion Models for Long Video Understanding and Generation
